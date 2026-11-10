@@ -1,59 +1,25 @@
-<br clear="both">
+# Olá, eu sou Jonata Moraes
 
-<h1 align="center">Hey, What's up?  👋</h1>
+**Python | Automação de processos | SQL | Análise e qualidade de dados**
 
-###
+Tenho experiência com scripts Python, análise de dados operacionais e investigação de falhas. Desenvolvo projetos de automação web, integração com APIs e tratamento de dados. Busco oportunidades júnior em automação, dados, qualidade de dados e suporte a aplicações.
 
-<p align="center">My name is Jonata Moraes and I'm a Backend Developer.</p>
+## Projetos em destaque
 
-###
+- [DataJud — TJPE](https://github.com/jonatamoraes97/datajud-tjpe): case de extração de dados de API, transformação de JSON, carga em PostgreSQL e validação da integridade. O README apresenta os resultados e as limitações do case.
+- [ETL de vendas com Python e PostgreSQL](https://github.com/jonatamoraes97/ETL-de-vendas-python): limpeza de dados de vendas com Pandas, carga em banco e consultas SQL.
+- [OdontoGestão — gestão de pagamentos](https://github.com/jonatamoraes97/faturamento-clinica-odonto): projeto fictício com automação web e planilhas. Defini requisitos e conduzi testes com apoio de IA no desenvolvimento; o repositório detalha as contribuições.
+- [Coleta de preços com Selenium](https://github.com/jonatamoraes97/valor-de-kitugrade-pichau): automação de coleta de nomes e preços de produtos e geração de CSV.
+- [Análise de vendas com Python e Plotly](https://github.com/jonatamoraes97/analise-de-vendas): visualização interativa de dados de vendas.
 
-<br clear="both">
+## Tecnologias e práticas
 
-<h2 align="center">About me</h2>
+- Python, Pandas, Selenium e OpenPyXL
+- SQL, PostgreSQL, MySQL e SQLite
+- APIs REST, HTTP e JSON — fundamentos e projetos práticos
+- Power Automate Desktop — projetos de cursos
+- Git e GitHub, validação de dados e documentação técnica
 
-###
+## Contato e portfólio
 
-<p align="left">Motivated Backend Developer in training with practical experience in Python, JavaScript, and SQL, and a strong foundation in web technologies. Passionate about building efficient, scalable solutions and continuously improving my technical skills. <br><br><br>Open to global opportunities where I can contribute, learn, and grow.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-<h2 align="center">Social media</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jonata-moraes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jonatamoraes_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="56" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
+[Portfólio](https://jonatamoraes97.github.io/) · [LinkedIn](https://www.linkedin.com/in/jonata-moraes) · [Instagram](https://www.instagram.com/jonatamoraes_)
